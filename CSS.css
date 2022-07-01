@@ -9,6 +9,7 @@
     height: 100vh;
     left: 0;
     top: 0;
+    box-shadow: 5px 5px 5px gray;
 }
 #navbar header{
     background-color: lightgray;
